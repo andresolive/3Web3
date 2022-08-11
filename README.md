@@ -1,5 +1,7 @@
 # 3Web3
 
+<img src="./client/images/homepage.png"/>
+
 This is an application to send ETH across the world!
 
 # Getting started
